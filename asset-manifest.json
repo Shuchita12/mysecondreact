@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mysecondreact/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/mysecondreact/static/js/main.dad275ee.chunk.js",
+    "main.js.map": "/mysecondreact/static/js/main.dad275ee.chunk.js.map",
+    "runtime-main.js": "/mysecondreact/static/js/runtime-main.38f0fb98.js",
+    "runtime-main.js.map": "/mysecondreact/static/js/runtime-main.38f0fb98.js.map",
+    "static/js/2.918b91c7.chunk.js": "/mysecondreact/static/js/2.918b91c7.chunk.js",
+    "static/js/2.918b91c7.chunk.js.map": "/mysecondreact/static/js/2.918b91c7.chunk.js.map",
+    "static/js/3.abadbc23.chunk.js": "/mysecondreact/static/js/3.abadbc23.chunk.js",
+    "static/js/3.abadbc23.chunk.js.map": "/mysecondreact/static/js/3.abadbc23.chunk.js.map",
+    "index.html": "/mysecondreact/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/mysecondreact/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.918b91c7.chunk.js.LICENSE.txt": "/mysecondreact/static/js/2.918b91c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38f0fb98.js",
+    "static/js/2.918b91c7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.dad275ee.chunk.js"
+  ]
+}
